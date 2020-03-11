@@ -1,0 +1,260 @@
+*{
+	box-sizing: border-box;
+	font-family: 'Gentium Book Basic', serif;;
+}
+li{
+	color: #D65858;
+	text-decoration:Andale Mono;
+	letter-spacing:2.23px;
+	font-size:13px;
+	margin-left: 155px;
+	list-style:none;
+	column-count:2;
+	text-align: right;
+	padding-left:50px;
+	margin-bottom:35px;
+	margin-top:4px;
+	padding-left: 20px;
+}
+h1{
+	text-align: left;
+	color:#4E4B4B;
+	font-weight: lighter;
+	font-size:72px;
+	font-kerning:25;
+	list-style:none;
+	letter-spacing:7.92px;
+	margin-top:12px;
+	padding-left: 20px;
+	padding-bottom:0px;
+	margin-left:center;
+	margin:0px;
+}
+h2.sub-title {
+	color:#979191;
+	font-size:16px;
+	font-style: italic;
+	font-family: Times New Roman;
+	letter-spacing:2.14px;
+	font-weight: bold;
+	margin-top:1px;
+	margin-left:80px;
+	padding-top:0px;
+	padding-left:210px;
+	margin-bottom: 75px;
+}
+ul{
+	display:flex;
+	margin:0;
+	padding:0;
+}
+
+.s2 {
+	display:flex;
+}  
+#red-sculpture{
+	width:100%;
+	height:5%;
+	padding-bottom:5px;
+	padding-top:5px;
+	border: 1px solid black;
+	border-spacing: 80% 10%,
+}
+
+#marc{
+	width:520px;
+	height: 550px;
+	margin-top: 210px;
+	border:solid thin;
+	margin-left:150px;	
+}
+
+.line-one{
+	text-align: left;
+	font-size:10px;
+	padding-left:405px;
+	column-width:40px;
+	margin-bottom:25px;
+	font-size:25px
+}
+#line-two{
+	text-align: left;
+	font-size:10px;
+	padding-left:405px;
+	column-width:40px;
+	margin-bottom:50px;
+	font-size:25px
+}
+#bio{
+	color: #4E4B4B;
+	font-size:72px; 
+	letter-spacing:7.92px;
+	padding-left:20px;
+	margin-bottom:1px;
+	padding-bottom:60px;
+	padding-top:67px;
+	margin-top:150px;
+	font-weight:lighter;
+	margin-right:10px;
+}
+#line-three{
+	text-align: right;
+	font-size:1px;
+	padding-left:23px;
+	padding-top:19px;
+	width:100px;
+	column-width:5%;
+	margin-top:8px;
+	font-size:10px
+	margin-bottom:28px;
+	padding-bottom: 60px;	
+
+}
+#first-p{
+	font-family: Times New Roman;
+	font-style:20px;
+	letter-spacing:1.80px;
+	padding-left:20px;
+	color:#979191;
+	font-weight:lighter;
+	line-height: 200%; 
+	font-family:12px;
+	font-size:17.07px;
+	padding-top:1.22px;
+	padding-bottom:150px;
+}
+#gallery{
+	color: #4E4B4B;
+	font-size:72px; 
+	letter-spacing:7.92px;
+	padding-left:20px;
+	margin-bottom:1px;
+	padding-bottom:60px;
+	padding-top:67px;
+	margin-top:250px;
+	font-weight:lighter;
+	margin-right:10px;
+	padding-top:10px;
+
+}
+#g-line{
+	text-align: left;
+	font-size:10px;
+	padding-left:405px;
+	column-width:40px;
+	margin-bottom:25px;
+	font-size:25px
+}
+.g-img{
+	width:672px;
+	height:472px;
+	padding-left:20px;
+	border-style:solid thin;
+	border-width:1px;
+	padding-bottom:50px;
+	margin:0px;
+	content: 
+}
+/*#first-flower{
+	font-family: Times New Roman;
+	font-size:15px;
+	letter-spacing:1.20px;
+	color:#979191;
+	font-weight:lighter;
+	padding-left:410px;
+	font-style: italic;
+	margin-top:60px;
+	padding-top:20px;
+
+}*/
+.g2-img{
+	width:666px;
+	height:672px;
+	padding-left:20px;
+	padding-bottom:50px;
+	margin-left:114px;
+	border-style:solid thin;
+	border-width:1px;
+	margin-bottom:0px;
+
+
+}
+#life-death{
+	margin-top:10px;
+	
+}
+
+}
+.g3-img{
+	width:872px;
+	height:672px;
+	padding-right:75px;
+	margin-top:350px;
+	margin right: 100%;
+	padding left:17px;
+
+}
+.pick-flower{
+	font-size:400px;
+}
+.s3{
+	display: flex;
+	position: relative;
+	flex-wrap: wrap;
+}
+
+.s3 h2 {
+	width: 100%;
+}
+
+.s3 div {
+	width: 40%;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+
+.s3 div p {
+	font-family: Times New Roman;
+	font-size:15px;
+	letter-spacing:1.20px;
+	color:#979191;
+	font-weight:lighter;
+	text-align: right;
+	padding-right: 20px;
+	font-style: italic;
+	margin-top:0;
+	padding-top:20px;
+}
+
+.clear {
+	clear: both!important;
+}
+
+.s4{
+	display: block;
+	position: relative;
+}
+.four-line{
+	margin-top:90px;
+	margin:150px;
+	align-items:center;
+}
+.tickets{
+	color: #4E4B4B;
+	font-size:72px; 
+	letter-spacing:7.92px;
+	padding-top:50px;
+	padding-left:505px;
+	margin-bottom:300px;
+	padding-bottom:50px;
+	padding-top:67px;
+	margin-top:30px;
+	font-weight:lighter;
+	margin-right:10px;
+	padding-top:1px;
+}
+.future{
+	color: #4E4B4B;
+	font-size:72px; 
+	padding-left:76px;
+}
